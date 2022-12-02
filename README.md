@@ -3,3 +3,5 @@
 Simple Video project based on [Vanilla Javacript Projects](https://www.vanillajavascriptprojects.com/)
 
 Video footage from [Coverr.co](https://coverr.co/videos/snow-in-a-winter-wonderland-Ska8XMO3RD)
+
+SVG loader from [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders)
